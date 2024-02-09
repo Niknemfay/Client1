@@ -6,3 +6,4 @@ export default defineConfig({
 	plugins: [react()],
 	base: '/Client1',
 })
+// ;('/Client1')
